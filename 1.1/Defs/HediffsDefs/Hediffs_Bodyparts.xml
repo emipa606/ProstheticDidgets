@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <HediffDef Name="AddedBodyPartDidgetsBase" Abstract="True">
+    <hediffClass>Hediff_AddedPart</hediffClass>
+    <defaultLabelColor>(64,138,184)</defaultLabelColor>
+    <isBad>false</isBad>
+  </HediffDef> 
+  
+  <HediffDef ParentName="AddedBodyPartDidgetsBase">
+    <defName>ProstheticFinger</defName>
+    <label>prosthetic finger</label>
+    <description>A simple prosthetic finger incase you happen to lose one of them.. ..Or seven.</description>
+    <spawnThingOnRemoved>ProstheticFinger</spawnThingOnRemoved>
+    <addedPartProps>
+      <solid>true</solid>
+      <partEfficiency>1</partEfficiency>
+	  <betterThanNatural>false</betterThanNatural>
+    </addedPartProps>
+  </HediffDef>
+  
+  <HediffDef ParentName="AddedBodyPartDidgetsBase">
+    <defName>ProstheticToe</defName>
+    <label>prosthetic toe</label>
+	<description>A simple prosthetic toe incase a Scyther happens to chop off a few.</description>
+    <spawnThingOnRemoved>ProstheticToe</spawnThingOnRemoved>
+    <addedPartProps>
+      <solid>true</solid>
+      <partEfficiency>1</partEfficiency>
+	  <betterThanNatural>false</betterThanNatural>
+    </addedPartProps>
+  </HediffDef>
+  
+   <HediffDef ParentName="AddedBodyPartDidgetsBase">
+    <defName>BionicFinger</defName>
+    <label>bionic finger</label>
+    <description>A nice bionic finger!</description>
+    <spawnThingOnRemoved>BionicFinger</spawnThingOnRemoved>
+    <addedPartProps>
+      <solid>true</solid>
+      <partEfficiency>1.0</partEfficiency>
+	  <betterThanNatural>true</betterThanNatural>
+    </addedPartProps>
+	  <stages>
+		<li>
+         <capMods>
+            <li>
+               <capacity>Manipulation</capacity>
+               <offset>0.04</offset>
+            </li>
+         </capMods>
+		</li>	
+      </stages>		
+  </HediffDef>
+  
+  <HediffDef ParentName="AddedBodyPartDidgetsBase">
+    <defName>BionicToe</defName>
+    <label>bionic toe</label>
+    <description>A nice bionic toe!</description>
+    <spawnThingOnRemoved>BionicToe</spawnThingOnRemoved>
+    <addedPartProps>
+      <solid>true</solid>
+      <partEfficiency>1.0</partEfficiency>
+	  <betterThanNatural>true</betterThanNatural>
+    </addedPartProps>
+	   <stages>
+		<li>
+         <capMods>
+            <li>
+               <capacity>Moving</capacity>
+               <offset>0.04</offset>
+            </li>
+         </capMods>
+		</li>	
+      </stages>	
+  </HediffDef>
+
+</Defs>

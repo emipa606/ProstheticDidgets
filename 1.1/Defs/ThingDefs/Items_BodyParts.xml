@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="BodyPartProstheticBase">
+    <defName>ProstheticFinger</defName>
+    <label>prosthetic finger</label>
+    <description>A simple prosthetic finger incase you happen to lose one of them.. ..Or seven.</description>
+    <statBases>
+      <MarketValue>60</MarketValue>
+	  <Mass>1</Mass>
+    </statBases>
+    <techHediffsTags>
+      <li>Simple</li>
+    </techHediffsTags>
+    <costList>
+      <Steel>10</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+	  <workAmount>200</workAmount>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Smith</soundWorking>
+      <recipeUsers>
+        <li>TableMachining</li>
+      </recipeUsers>
+      <researchPrerequisite>Prosthetics</researchPrerequisite>
+	</recipeMaker>
+  </ThingDef>
+  
+  <ThingDef ParentName="BodyPartProstheticBase">
+    <defName>ProstheticToe</defName>
+    <label>prosthetic toe</label>
+    <description>A simple prosthetic toe incase a Scyther happens to chop off a few.</description>
+    <statBases>
+      <MarketValue>60</MarketValue>
+	  <Mass>1</Mass>
+    </statBases>
+    <techHediffsTags>
+      <li>Simple</li>
+    </techHediffsTags>
+    <costList>
+      <Steel>10</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+	  <workAmount>200</workAmount>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Smith</soundWorking>
+      <recipeUsers>
+        <li>TableMachining</li>
+      </recipeUsers>
+      <researchPrerequisite>Prosthetics</researchPrerequisite>
+	</recipeMaker>
+  </ThingDef>
+  
+    <ThingDef ParentName="BodyPartBionicBase">
+    <defName>BionicFinger</defName>
+    <label>bionic finger</label>
+    <description>A nice bionic finger!</description>
+    <statBases>
+      <MarketValue>180</MarketValue>
+	  <Mass>1</Mass>
+    </statBases>
+    <techHediffsTags>
+      <li>Advanced</li>
+    </techHediffsTags>
+    <costList>
+	  <ProstheticFinger>1</ProstheticFinger>
+      <Plasteel>10</Plasteel>
+      <ComponentIndustrial>2</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+	  <workAmount>400</workAmount>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Smith</soundWorking>
+      <recipeUsers>
+        <li>TableMachining</li>
+      </recipeUsers>
+      <researchPrerequisite>Bionics</researchPrerequisite>
+	</recipeMaker>
+  </ThingDef>
+  
+    <ThingDef ParentName="BodyPartBionicBase">
+    <defName>BionicToe</defName>
+    <label>bionic toe</label>
+    <description>A nice bionic toe!</description>
+    <statBases>
+      <MarketValue>180</MarketValue>
+	  <Mass>1</Mass>
+    </statBases>
+    <techHediffsTags>
+      <li>Advanced</li>
+    </techHediffsTags>
+	 <costList>
+	  <ProstheticToe>1</ProstheticToe>
+      <Plasteel>10</Plasteel>
+      <ComponentIndustrial>2</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+	  <workAmount>400</workAmount>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Smith</soundWorking>
+      <recipeUsers>
+        <li>TableMachining</li>
+      </recipeUsers>
+      <researchPrerequisite>Bionics</researchPrerequisite>
+	</recipeMaker>
+  </ThingDef>
+  
+  </Defs>
