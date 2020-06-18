@@ -38,7 +38,6 @@
   <ThingDef ParentName="BodyPartArtificialBase">
     <defName>ProstheticFinger</defName>
     <label>prosthetic finger</label>
-    <description>A simple prosthetic finger incase you happen to lose one of them.. ..Or seven.</description>
     <graphicData>
       <texPath>Things/Item/Health/HealthItemBionic</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -69,7 +68,6 @@
   <ThingDef ParentName="BodyPartArtificialBase">
     <defName>ProstheticToe</defName>
     <label>prosthetic toe</label>
-    <description>A simple prosthetic toe incase a Scyther happens to chop off a few.</description>
     <graphicData>
       <texPath>Things/Item/Health/HealthItemBionic</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -100,7 +98,6 @@
     <ThingDef ParentName="BodyPartArtificialBase">
     <defName>BionicFinger</defName>
     <label>bionic finger</label>
-    <description>A nice bionic finger!</description>
     <graphicData>
       <texPath>Things/Item/Health/HealthItemBionic</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -124,7 +121,7 @@
       <effectWorking>Smith</effectWorking>
       <soundWorking>Recipe_Smith</soundWorking>
       <recipeUsers>
-        <li>TableMachining</li>
+        <li>FabricationBench</li>
       </recipeUsers>
 	</recipeMaker>
   </ThingDef>
@@ -132,7 +129,6 @@
     <ThingDef ParentName="BodyPartArtificialBase">
     <defName>BionicToe</defName>
     <label>bionic toe</label>
-    <description>A nice bionic toe!</description>
     <graphicData>
       <texPath>Things/Item/Health/HealthItemBionic</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -156,7 +152,7 @@
       <effectWorking>Smith</effectWorking>
       <soundWorking>Recipe_Smith</soundWorking>
       <recipeUsers>
-        <li>TableMachining</li>
+        <li>FabricationBench</li>
       </recipeUsers>
 	</recipeMaker>
   </ThingDef>

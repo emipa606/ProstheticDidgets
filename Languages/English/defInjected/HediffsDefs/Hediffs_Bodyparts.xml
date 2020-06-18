@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <ProstheticFinger.label>prosthetic finger</ProstheticFinger.label>
+    <ProstheticFinger.description>A simple prosthetic finger in case you happen to lose one of them.</ProstheticFinger.description>
+
+    <ProstheticToe.label>prosthetic toe</ProstheticToe.label>
+    <ProstheticToe.description>A simple prosthetic toe in case a Scizor happens to chop off a few.</ProstheticToe.description>
+
+    <BionicFinger.label>bionic finger</BionicFinger.label>
+    <BionicFinger.description>A nice bionic finger!</BionicFinger.description>
+
+    <BionicToe.label>bionic toe</BionicToe.label>
+    <BionicToe.description>A nice bionic toe!</BionicToe.description>
+
+</LanguageData>

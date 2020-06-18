@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <InstallProstheticFinger.label>вживить протез пальца руки</InstallProstheticFinger.label>
+    <InstallProstheticFinger.description>Вживить протез пальца руки.</InstallProstheticFinger.description>
+    <InstallProstheticFinger.jobString>Вживляет протез пальца руки</InstallProstheticFinger.jobString>
+
+    <InstallProstheticToe.label>вживить протез пальца ноги</InstallProstheticToe.label>
+    <InstallProstheticToe.description>Вживить протез пальца ноги.</InstallProstheticToe.description>
+    <InstallProstheticToe.jobString>Вживляет протез пальца ноги</InstallProstheticToe.jobString>
+
+    <InstallBionicFinger.label>вживить бионический палец руки</InstallBionicFinger.label>
+    <InstallBionicFinger.description>Вживить бионический палец руки.</InstallBionicFinger.description>
+    <InstallBionicFinger.jobString>Вживляет бионический палец руки</InstallBionicFinger.jobString>
+
+    <InstallBionicToe.label>вживить бионический палец ноги</InstallBionicToe.label>
+    <InstallBionicToe.description>Вживить ,бионический палец ноги.</InstallBionicToe.description>
+    <InstallBionicToe.jobString>Вживляет бионический палец ноги</InstallBionicToe.jobString>
+
+    <Make_ProstheticFinger.label>изготовить простой протез пальца руки</Make_ProstheticFinger.label>
+    <Make_ProstheticFinger.description>Изготовить простой протез пальца руки.</Make_ProstheticFinger.description>
+    <Make_ProstheticFinger.jobString>Изготавливает простой протез пальца руки</Make_ProstheticFinger.jobString>
+
+    <Make_ProstheticToe.label>изготовить простой протез пальца ноги</Make_ProstheticToe.label>
+    <Make_ProstheticToe.description>Изготовить простой протез пальца ноги.</Make_ProstheticToe.description>
+    <Make_ProstheticToe.jobString>Изготавливает простой протез пальца ноги</Make_ProstheticToe.jobString>
+
+    <Make_BionicFinger.label>изготовить бионический палец руки</Make_BionicFinger.label>
+    <Make_BionicFinger.description>Изготовить бионический палец руки.</Make_BionicFinger.description>
+    <Make_BionicFinger.jobString>Изготавливает бионический палец руки</Make_BionicFinger.jobString>
+
+    <Make_BionicToe.label>изготовить бионический палец ноги</Make_BionicToe.label>
+    <Make_BionicToe.description>Изготовить бионический палец ноги.</Make_BionicToe.description> 
+    <Make_BionicToe.jobString>Изготавливает бионический палец ноги</Make_BionicToe.jobString>
+
+</LanguageData>
