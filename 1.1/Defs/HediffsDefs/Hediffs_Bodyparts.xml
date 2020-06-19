@@ -10,7 +10,7 @@
   <HediffDef ParentName="AddedBodyPartDidgetsBase">
     <defName>ProstheticFinger</defName>
     <label>prosthetic finger</label>
-    <description>A simple prosthetic finger incase you happen to lose one of them.. ..Or seven.</description>
+    <description>A simple prosthetic finger in case you happen to lose one of them.. ..Or seven.</description>
     <spawnThingOnRemoved>ProstheticFinger</spawnThingOnRemoved>
     <addedPartProps>
       <solid>true</solid>
@@ -22,7 +22,7 @@
   <HediffDef ParentName="AddedBodyPartDidgetsBase">
     <defName>ProstheticToe</defName>
     <label>prosthetic toe</label>
-	<description>A simple prosthetic toe incase a Scyther happens to chop off a few.</description>
+	<description>A simple prosthetic toe in case a Scyther happens to chop off a few.</description>
     <spawnThingOnRemoved>ProstheticToe</spawnThingOnRemoved>
     <addedPartProps>
       <solid>true</solid>

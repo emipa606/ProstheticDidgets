@@ -4,7 +4,7 @@
   <ThingDef ParentName="BodyPartProstheticBase">
     <defName>ProstheticFinger</defName>
     <label>prosthetic finger</label>
-    <description>A simple prosthetic finger incase you happen to lose one of them.. ..Or seven.</description>
+	  <description>A simple prosthetic finger</description>
     <statBases>
       <MarketValue>60</MarketValue>
 	  <Mass>1</Mass>
@@ -32,7 +32,7 @@
   <ThingDef ParentName="BodyPartProstheticBase">
     <defName>ProstheticToe</defName>
     <label>prosthetic toe</label>
-    <description>A simple prosthetic toe incase a Scyther happens to chop off a few.</description>
+	  <description>A simple prosthetic toe</description>
     <statBases>
       <MarketValue>60</MarketValue>
 	  <Mass>1</Mass>
@@ -60,7 +60,7 @@
     <ThingDef ParentName="BodyPartBionicBase">
     <defName>BionicFinger</defName>
     <label>bionic finger</label>
-    <description>A nice bionic finger!</description>
+	    <description>A bionic finger</description>
     <statBases>
       <MarketValue>180</MarketValue>
 	  <Mass>1</Mass>
@@ -80,7 +80,7 @@
       <effectWorking>Smith</effectWorking>
       <soundWorking>Recipe_Smith</soundWorking>
       <recipeUsers>
-        <li>TableMachining</li>
+        <li>FabricationBench</li>
       </recipeUsers>
       <researchPrerequisite>Bionics</researchPrerequisite>
 	</recipeMaker>
@@ -89,7 +89,7 @@
     <ThingDef ParentName="BodyPartBionicBase">
     <defName>BionicToe</defName>
     <label>bionic toe</label>
-    <description>A nice bionic toe!</description>
+	    <description>A bionic toe</description>
     <statBases>
       <MarketValue>180</MarketValue>
 	  <Mass>1</Mass>
@@ -109,7 +109,7 @@
       <effectWorking>Smith</effectWorking>
       <soundWorking>Recipe_Smith</soundWorking>
       <recipeUsers>
-        <li>TableMachining</li>
+        <li>FabricationBench</li>
       </recipeUsers>
       <researchPrerequisite>Bionics</researchPrerequisite>
 	</recipeMaker>

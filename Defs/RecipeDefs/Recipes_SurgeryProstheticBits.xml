@@ -17,7 +17,7 @@
 		<label>install prosthetic finger</label>
 		<description>Installs a prosthetic finger.</description>
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Operating on patient.</jobString>
+		<jobString>Installing prosthetic finger.</jobString>
 		<workAmount>500</workAmount>
 		<ingredients>
 			<li>
@@ -56,7 +56,7 @@
 		<label>install prosthetic toe</label>
 		<description>Installs a prosthetic toe.</description>
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Operating on patient.</jobString>
+		<jobString>Installing prosthetic toe.</jobString>
 		<workAmount>500</workAmount>
 		<ingredients>
 			<li>
@@ -95,7 +95,7 @@
 		<label>install bionic finger</label>
 		<description>Installs a bionic finger.</description>
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Operating on patient.</jobString>
+		<jobString>Installing bionic finger.</jobString>
 		<workAmount>1000</workAmount>
 		<ingredients>
 			<li>
@@ -134,7 +134,7 @@
 		<label>install bionic toe</label>
 		<description>Installs a bionic toe.</description>
 		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
-		<jobString>Operating on patient.</jobString>
+		<jobString>Installing bionic toe.</jobString>
 		<workAmount>1000</workAmount>
 		<ingredients>
 			<li>
