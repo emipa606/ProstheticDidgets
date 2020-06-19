@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Prosthetic Didgets (Continued)</name>
-  	<packageId>Mlie.ProstheticDidgets</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/ProstheticDidgets</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<description>Update of Actual Trashs mod for RimWorld 1.1
+  <name>Prosthetic Didgets (Continued)</name>
+  <packageId>Mlie.ProstheticDidgets</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/ProstheticDidgets</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <description>Update of Actual Trashs mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1507137970
 Cleaned up the code and made use of the vanilla definitions instead.
 

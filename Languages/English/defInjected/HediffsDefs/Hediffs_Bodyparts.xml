@@ -1,16 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-    <ProstheticFinger.label>prosthetic finger</ProstheticFinger.label>
-    <ProstheticFinger.description>A simple prosthetic finger</ProstheticFinger.description>
-
-    <ProstheticToe.label>prosthetic toe</ProstheticToe.label>
-    <ProstheticToe.description>A simple prosthetic toe</ProstheticToe.description>
-
-    <BionicFinger.label>bionic finger</BionicFinger.label>
-    <BionicFinger.description>A bionic finger</BionicFinger.description>
-
-    <BionicToe.label>bionic toe</BionicToe.label>
-    <BionicToe.description>A bionic toe</BionicToe.description>
+  <!--<ProstheticFinger.label>prosthetic finger</ProstheticFinger.label>-->
+  <!--<ProstheticFinger.description>A simple prosthetic finger</ProstheticFinger.description>-->
+  <!--<ProstheticToe.label>prosthetic toe</ProstheticToe.label>-->
+  <!--<ProstheticToe.description>A simple prosthetic toe</ProstheticToe.description>-->
+  <!--<BionicFinger.label>bionic finger</BionicFinger.label>-->
+  <!--<BionicFinger.description>A bionic finger</BionicFinger.description>-->
+  <!--<BionicToe.label>bionic toe</BionicToe.label>-->
+  <!--<BionicToe.description>A bionic toe</BionicToe.description>-->
 
 </LanguageData>

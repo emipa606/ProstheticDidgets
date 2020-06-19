@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <ThingDef Name="BodyPartBase" Abstract="True">
     <label>body part</label>
     <thingClass>ThingWithComps</thingClass>
@@ -18,34 +17,31 @@
       <li>TechHediff</li>
     </tradeTags>
     <comps>
-      <li Class="CompProperties_Forbiddable"/>
+      <li Class="CompProperties_Forbiddable" />
     </comps>
     <pathCost>10</pathCost>
   </ThingDef>
-
   <ThingDef ParentName="BodyPartBase" Name="BodyPartNaturalBase" Abstract="True">
     <thingCategories>
       <li>BodyPartsNatural</li>
     </thingCategories>
   </ThingDef>
-
   <ThingDef ParentName="BodyPartBase" Name="BodyPartArtificialBase" Abstract="True">
     <thingCategories>
       <li>BodyPartsArtificial</li>
     </thingCategories>
   </ThingDef>
-  
   <ThingDef ParentName="BodyPartArtificialBase">
     <defName>ProstheticFinger</defName>
     <label>prosthetic finger</label>
-	  <description>A simple prosthetic finger</description>
+    <description>A simple prosthetic finger</description>
     <graphicData>
       <texPath>Things/Item/Health/HealthItemBionic</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
       <MarketValue>60</MarketValue>
-	  <Mass>1</Mass>
+      <Mass>1</Mass>
     </statBases>
     <techHediffsTags>
       <li>Simple</li>
@@ -55,7 +51,7 @@
       <ComponentIndustrial>1</ComponentIndustrial>
     </costList>
     <recipeMaker>
-	  <workAmount>200</workAmount>
+      <workAmount>200</workAmount>
       <workSpeedStat>SmithingSpeed</workSpeedStat>
       <workSkill>Crafting</workSkill>
       <effectWorking>Smith</effectWorking>
@@ -63,20 +59,19 @@
       <recipeUsers>
         <li>TableMachining</li>
       </recipeUsers>
-	</recipeMaker>
+    </recipeMaker>
   </ThingDef>
-  
   <ThingDef ParentName="BodyPartArtificialBase">
     <defName>ProstheticToe</defName>
     <label>prosthetic toe</label>
-	  <description>A simple prosthetic toe</description>
+    <description>A simple prosthetic toe</description>
     <graphicData>
       <texPath>Things/Item/Health/HealthItemBionic</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
       <MarketValue>60</MarketValue>
-	  <Mass>1</Mass>
+      <Mass>1</Mass>
     </statBases>
     <techHediffsTags>
       <li>Simple</li>
@@ -86,7 +81,7 @@
       <ComponentIndustrial>1</ComponentIndustrial>
     </costList>
     <recipeMaker>
-	  <workAmount>200</workAmount>
+      <workAmount>200</workAmount>
       <workSpeedStat>SmithingSpeed</workSpeedStat>
       <workSkill>Crafting</workSkill>
       <effectWorking>Smith</effectWorking>
@@ -94,31 +89,30 @@
       <recipeUsers>
         <li>TableMachining</li>
       </recipeUsers>
-	</recipeMaker>
+    </recipeMaker>
   </ThingDef>
-  
-    <ThingDef ParentName="BodyPartArtificialBase">
+  <ThingDef ParentName="BodyPartArtificialBase">
     <defName>BionicFinger</defName>
     <label>bionic finger</label>
-	    <description>A bionic finger</description>
+    <description>A bionic finger</description>
     <graphicData>
       <texPath>Things/Item/Health/HealthItemBionic</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
       <MarketValue>180</MarketValue>
-	  <Mass>1</Mass>
+      <Mass>1</Mass>
     </statBases>
     <techHediffsTags>
       <li>Advanced</li>
     </techHediffsTags>
     <costList>
-	  <ProstheticFinger>1</ProstheticFinger>
+      <ProstheticFinger>1</ProstheticFinger>
       <Plasteel>10</Plasteel>
       <ComponentIndustrial>2</ComponentIndustrial>
     </costList>
     <recipeMaker>
-	  <workAmount>400</workAmount>
+      <workAmount>400</workAmount>
       <workSpeedStat>SmithingSpeed</workSpeedStat>
       <workSkill>Crafting</workSkill>
       <effectWorking>Smith</effectWorking>
@@ -126,31 +120,30 @@
       <recipeUsers>
         <li>FabricationBench</li>
       </recipeUsers>
-	</recipeMaker>
+    </recipeMaker>
   </ThingDef>
-  
-    <ThingDef ParentName="BodyPartArtificialBase">
+  <ThingDef ParentName="BodyPartArtificialBase">
     <defName>BionicToe</defName>
     <label>bionic toe</label>
-	    <description>A bionic toe</description>
+    <description>A bionic toe</description>
     <graphicData>
       <texPath>Things/Item/Health/HealthItemBionic</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
       <MarketValue>180</MarketValue>
-	  <Mass>1</Mass>
+      <Mass>1</Mass>
     </statBases>
     <techHediffsTags>
       <li>Advanced</li>
     </techHediffsTags>
-	 <costList>
-	  <ProstheticToe>1</ProstheticToe>
+    <costList>
+      <ProstheticToe>1</ProstheticToe>
       <Plasteel>10</Plasteel>
       <ComponentIndustrial>2</ComponentIndustrial>
     </costList>
     <recipeMaker>
-	  <workAmount>400</workAmount>
+      <workAmount>400</workAmount>
       <workSpeedStat>SmithingSpeed</workSpeedStat>
       <workSkill>Crafting</workSkill>
       <effectWorking>Smith</effectWorking>
@@ -158,7 +151,6 @@
       <recipeUsers>
         <li>FabricationBench</li>
       </recipeUsers>
-	</recipeMaker>
+    </recipeMaker>
   </ThingDef>
-  
-  </Defs>
+</Defs>

@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <ProstheticFinger.label>простой протез пальца руки</ProstheticFinger.label>
-    <ProstheticFinger.description>Простой протез пальца руки на случай потери одного из них.</ProstheticFinger.description>
-
-    <ProstheticToe.label>простой протез пальца ноги</ProstheticToe.label>
-    <ProstheticToe.description>Простой протез пальца ноги на на всякий случай, если Сизор случайно отрубит несколько.</ProstheticToe.description>
-
-    <BionicFinger.label>бионический палец руки</BionicFinger.label>
-    <BionicFinger.description>Отличный бионический палец руки!</BionicFinger.description>
-
-    <BionicToe.label>бионический палец ноги</BionicToe.label>
-    <BionicToe.description>Отличный бионический палец руки!</BionicToe.description>
-
+  <ProstheticFinger.label>Ð¿Ñ€Ð¾ÑÑ‚Ð¾Ð¹ Ð¿Ñ€Ð¾Ñ‚ÐµÐ· Ð¿Ð°Ð»ÑŒÑ†Ð° Ñ€ÑƒÐºÐ¸</ProstheticFinger.label>
+  <ProstheticFinger.description>ÐŸÑ€Ð¾ÑÑ‚Ð¾Ð¹ Ð¿Ñ€Ð¾Ñ‚ÐµÐ· Ð¿Ð°Ð»ÑŒÑ†Ð° Ñ€ÑƒÐºÐ¸ Ð½Ð° ÑÐ»ÑƒÑ‡Ð°Ð¹ Ð¿Ð¾Ñ‚ÐµÑ€Ð¸ Ð¾Ð´Ð½Ð¾Ð³Ð¾ Ð¸Ð· Ð½Ð¸Ñ….</ProstheticFinger.description>
+  <ProstheticToe.label>Ð¿Ñ€Ð¾ÑÑ‚Ð¾Ð¹ Ð¿Ñ€Ð¾Ñ‚ÐµÐ· Ð¿Ð°Ð»ÑŒÑ†Ð° Ð½Ð¾Ð³Ð¸</ProstheticToe.label>
+  <ProstheticToe.description>ÐŸÑ€Ð¾ÑÑ‚Ð¾Ð¹ Ð¿Ñ€Ð¾Ñ‚ÐµÐ· Ð¿Ð°Ð»ÑŒÑ†Ð° Ð½Ð¾Ð³Ð¸ Ð½Ð° Ð½Ð° Ð²ÑÑÐºÐ¸Ð¹ ÑÐ»ÑƒÑ‡Ð°Ð¹, ÐµÑÐ»Ð¸ Ð¡Ð¸Ð·Ð¾Ñ€ ÑÐ»ÑƒÑ‡Ð°Ð¹Ð½Ð¾ Ð¾Ñ‚Ñ€ÑƒÐ±Ð¸Ñ‚ Ð½ÐµÑÐºÐ¾Ð»ÑŒÐºÐ¾.</ProstheticToe.description>
+  <BionicFinger.label>Ð±Ð¸Ð¾Ð½Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð¿Ð°Ð»ÐµÑ† Ñ€ÑƒÐºÐ¸</BionicFinger.label>
+  <BionicFinger.description>ÐžÑ‚Ð»Ð¸Ñ‡Ð½Ñ‹Ð¹ Ð±Ð¸Ð¾Ð½Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð¿Ð°Ð»ÐµÑ† Ñ€ÑƒÐºÐ¸!</BionicFinger.description>
+  <BionicToe.label>Ð±Ð¸Ð¾Ð½Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð¿Ð°Ð»ÐµÑ† Ð½Ð¾Ð³Ð¸</BionicToe.label>
+  <BionicToe.description>ÐžÑ‚Ð»Ð¸Ñ‡Ð½Ñ‹Ð¹ Ð±Ð¸Ð¾Ð½Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð¿Ð°Ð»ÐµÑ† Ñ€ÑƒÐºÐ¸!</BionicToe.description>
 </LanguageData>
