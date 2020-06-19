@@ -38,6 +38,7 @@
   <ThingDef ParentName="BodyPartArtificialBase">
     <defName>ProstheticFinger</defName>
     <label>prosthetic finger</label>
+	  <description>A simple prosthetic finger</description>
     <graphicData>
       <texPath>Things/Item/Health/HealthItemBionic</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -68,6 +69,7 @@
   <ThingDef ParentName="BodyPartArtificialBase">
     <defName>ProstheticToe</defName>
     <label>prosthetic toe</label>
+	  <description>A simple prosthetic toe</description>
     <graphicData>
       <texPath>Things/Item/Health/HealthItemBionic</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -98,6 +100,7 @@
     <ThingDef ParentName="BodyPartArtificialBase">
     <defName>BionicFinger</defName>
     <label>bionic finger</label>
+	    <description>A bionic finger</description>
     <graphicData>
       <texPath>Things/Item/Health/HealthItemBionic</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -129,6 +132,7 @@
     <ThingDef ParentName="BodyPartArtificialBase">
     <defName>BionicToe</defName>
     <label>bionic toe</label>
+	    <description>A bionic toe</description>
     <graphicData>
       <texPath>Things/Item/Health/HealthItemBionic</texPath>
       <graphicClass>Graphic_Single</graphicClass>
