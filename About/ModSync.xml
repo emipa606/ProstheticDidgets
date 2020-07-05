@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModSyncNinjaData>
-  <ID>8391ccdc-c6d9-4a9e-8fc1-3e2f4b00ceab</ID>
-  <ModName>Prosthetic Didgets (Continued)</ModName>
-  <Version>1.0.2.0</Version>
-  <SaveBreaking>False</SaveBreaking>
-  <Host name="Github">
-    <Owner>emipa606</Owner>
-    <Project>ProstheticDidgets</Project>
-    <AboutDir>About</AboutDir>
-    <DownloadFrom>ModSyncMainPage</DownloadFrom>
-    <Branch>master</Branch>
-  </Host>
+    <ID>8391ccdc-c6d9-4a9e-8fc1-3e2f4b00ceab</ID>
+    <ModName>Prosthetic Didgets (Continued)</ModName>
+    <Version>1.0.2.0</Version>
+    <SaveBreaking>False</SaveBreaking>
+    <Host name="Github">
+        <Owner>emipa606</Owner>
+        <Project>ProstheticDidgets</Project>
+        <AboutDir>About</AboutDir>
+        <DownloadFrom>ModSyncMainPage</DownloadFrom>
+        <Branch>master</Branch>
+    </Host>
 </ModSyncNinjaData>
-
-
-
-

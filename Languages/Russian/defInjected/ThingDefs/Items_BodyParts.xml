@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+    <!-- EN: prosthetic finger -->
     <ProstheticFinger.label>простой протез пальца руки</ProstheticFinger.label>
-    <ProstheticFinger.description>Простой протез пальца руки на случай потери одного из них.</ProstheticFinger.description>
+    <!-- EN: A simple prosthetic finger in case of losing one of them. Slightly distinguishable from the real one. -->
+    <ProstheticFinger.description>Простой протез пальца на случай потери одного из них. Совсем немного, но отличается от настоящего.</ProstheticFinger.description>
 
+    <!-- EN: prosthetic toe -->
     <ProstheticToe.label>простой протез пальца ноги</ProstheticToe.label>
-    <ProstheticToe.description>Простой протез пальца ноги на на всякий случай, если Сизор случайно отрубит несколько.</ProstheticToe.description>
+    <!-- EN: The simplest prosthetic for a human toe. It feels occasionally inconvenient. -->
+    <ProstheticToe.description>Простейщий протез для человеческого пальца ноги. Порой кажется неудобным.</ProstheticToe.description>
 
+    <!-- EN: bionic finger -->
     <BionicFinger.label>бионический палец руки</BionicFinger.label>
-    <BionicFinger.description>Отличный бионический палец руки!</BionicFinger.description>
+    <!-- EN: A subtle replacement for a human finger. Those are better than biological ones in almost every way. -->
+    <BionicFinger.description>Утонченная замена человеческому пальцу руки. Они лучше биологических почти во всех отношениях.</BionicFinger.description>
 
+    <!-- EN: bionic toe -->
     <BionicToe.label>бионический палец ноги</BionicToe.label>
-    <BionicToe.description>Отличный бионический палец руки!</BionicToe.description>
+    <!-- EN: A rather good bionic toe replacement. It transmits electrical impulses to a biogel neural interface that communicates directly with the user's nervous system. -->
+    <BionicToe.description>Неплохая бионическая замена пальца ноги. Она передает электрические импульсы на биогелевый нейронный интерфейс, который непосредственно взаимодействует с нервной системой пользователя.</BionicToe.description>
 
 </LanguageData>
