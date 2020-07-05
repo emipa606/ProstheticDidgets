@@ -1,16 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+    <!-- EN: prosthetic finger -->
     <ProstheticFinger.label>простой протез пальца руки</ProstheticFinger.label>
-    <ProstheticFinger.description>Простой протез пальца руки на случай потери одного из них.</ProstheticFinger.description>
-    
+    <!-- EN: An installed prosthetic finger. -->
+    <ProstheticFinger.description>Установленный простой протез пальца руки.</ProstheticFinger.description>
+
+    <!-- EN: prosthetic finger -->
     <ProstheticToe.label>простой протез пальца ноги</ProstheticToe.label>
-    <ProstheticToe.description>Простой протез пальца ноги на на всякий случай, если Сизор случайно отрубит несколько.</ProstheticToe.description>
+    <!-- EN: An installed prosthetic toe. -->
+    <ProstheticToe.description>Установленный простой протез пальца руки.</ProstheticToe.description>
 
+    <!-- EN: bionic finger -->
     <BionicFinger.label>бионический палец руки</BionicFinger.label>
-    <BionicFinger.description>Отличный бионический палец руки!</BionicFinger.description>
+    <!-- EN: An installed bionic finger. -->
+    <BionicFinger.description>Вживлённый бионический палец руки.</BionicFinger.description>
 
+    <!-- EN: bionic toe -->
     <BionicToe.label>бионический палец ноги</BionicToe.label>
-    <BionicToe.description>Отличный бионический палец руки!</BionicToe.description>
+    <!-- EN: An installed bionic toe. -->
+    <BionicToe.description>Вживлённый бионический палец ноги.</BionicToe.description>
 
 </LanguageData>
