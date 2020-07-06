@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
     <InstallProstheticFinger.label>install prosthetic finger</InstallProstheticFinger.label>
@@ -16,5 +16,5 @@
     <InstallBionicToe.label>install bionic toe</InstallBionicToe.label>
     <InstallBionicToe.description>Install a bionic toe.</InstallBionicToe.description>
     <InstallBionicToe.jobString>Installing bionic toe.</InstallBionicToe.jobString>
-
+  
 </LanguageData>

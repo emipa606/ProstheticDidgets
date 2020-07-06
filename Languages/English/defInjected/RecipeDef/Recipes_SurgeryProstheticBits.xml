@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallProstheticFinger.label>install prosthetic finger</InstallProstheticFinger.label>
+  <InstallProstheticFinger.description>Installs a prosthetic finger.</InstallProstheticFinger.description>
+  <InstallProstheticFinger.jobString>Installing prosthetic finger.</InstallProstheticFinger.jobString>
+
+  <InstallProstheticToe.label>install prosthetic toe</InstallProstheticToe.label>
+  <InstallProstheticToe.description>Installs a prosthetic toe.</InstallProstheticToe.description>
+  <InstallProstheticToe.jobString>Installing prosthetic toe.</InstallProstheticToe.jobString>
+
+  <InstallBionicFinger.label>install bionic finger</InstallBionicFinger.label>
+  <InstallBionicFinger.description>Installs a bionic finger.</InstallBionicFinger.description>
+  <InstallBionicFinger.jobString>Installing bionic finger.</InstallBionicFinger.jobString>
+
+  <InstallBionicToe.label>install bionic toe</InstallBionicToe.label>
+  <InstallBionicToe.description>Installs a bionic toe.</InstallBionicToe.description>
+  <InstallBionicToe.jobString>Installing bionic toe.</InstallBionicToe.jobString>
+
+
+</LanguageData>
