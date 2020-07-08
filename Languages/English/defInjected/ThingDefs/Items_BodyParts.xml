@@ -1,16 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-    <ProstheticFinger.label>prosthetic finger</ProstheticFinger.label>
-    <ProstheticFinger.description>A simple prosthetic finger in case of losing one of them. Slightly distinguishable from the real one.</ProstheticFinger.description>
-
-    <ProstheticToe.label>prosthetic toe</ProstheticToe.label>
-    <ProstheticToe.description>The simplest prosthetic for a human toe. It feels occasionally inconvenient.</ProstheticToe.description>
-
-    <BionicFinger.label>bionic finger</BionicFinger.label>
-    <BionicFinger.description>A subtle replacement for a human finger. Those are better than biological ones in almost every way.</BionicFinger.description>
-
-    <BionicToe.label>bionic toe</BionicToe.label>
-    <BionicToe.description>A rather good bionic toe replacement. It transmits electrical impulses to a biogel neural interface that communicates directly with the user's nervous system.</BionicToe.description>
+  <!--<ProstheticFinger.label>prosthetic finger</ProstheticFinger.label>-->
+  <!--<ProstheticFinger.description>A simple prosthetic finger in case of losing one of them. Slightly distinguishable from the real one.</ProstheticFinger.description>-->
+  <!--<ProstheticToe.label>prosthetic toe</ProstheticToe.label>-->
+  <!--<ProstheticToe.description>The simplest prosthetic for a human toe. It feels occasionally inconvenient.</ProstheticToe.description>-->
+  <!--<BionicFinger.label>bionic finger</BionicFinger.label>-->
+  <!--<BionicFinger.description>A subtle replacement for a human finger. Those are better than biological ones in almost every way.</BionicFinger.description>-->
+  <!--<BionicToe.label>bionic toe</BionicToe.label>-->
+  <!--<BionicToe.description>A rather good bionic toe replacement. It transmits electrical impulses to a biogel neural interface that communicates directly with the user's nervous system.</BionicToe.description>-->
 
 </LanguageData>

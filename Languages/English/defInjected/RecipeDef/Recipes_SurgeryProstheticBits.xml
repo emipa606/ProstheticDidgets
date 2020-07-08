@@ -1,20 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- Prosthetic finger -->
+
   <InstallProstheticFinger.label>install prosthetic finger</InstallProstheticFinger.label>
-  <InstallProstheticFinger.description>Installs a prosthetic finger.</InstallProstheticFinger.description>
+  <InstallProstheticFinger.description>Install a prosthetic finger.</InstallProstheticFinger.description>
   <InstallProstheticFinger.jobString>Installing prosthetic finger.</InstallProstheticFinger.jobString>
 
+
+  <!-- Prosthetic toe -->
+
   <InstallProstheticToe.label>install prosthetic toe</InstallProstheticToe.label>
-  <InstallProstheticToe.description>Installs a prosthetic toe.</InstallProstheticToe.description>
+  <InstallProstheticToe.description>Install a prosthetic toe.</InstallProstheticToe.description>
   <InstallProstheticToe.jobString>Installing prosthetic toe.</InstallProstheticToe.jobString>
 
+
+  <!-- Bionic finger -->
+
   <InstallBionicFinger.label>install bionic finger</InstallBionicFinger.label>
-  <InstallBionicFinger.description>Installs a bionic finger.</InstallBionicFinger.description>
+  <InstallBionicFinger.description>Install a bionic finger.</InstallBionicFinger.description>
   <InstallBionicFinger.jobString>Installing bionic finger.</InstallBionicFinger.jobString>
 
+
+  <!-- Bionic toe -->
+
   <InstallBionicToe.label>install bionic toe</InstallBionicToe.label>
-  <InstallBionicToe.description>Installs a bionic toe.</InstallBionicToe.description>
+  <InstallBionicToe.description>Install a bionic toe.</InstallBionicToe.description>
   <InstallBionicToe.jobString>Installing bionic toe.</InstallBionicToe.jobString>
 
 
