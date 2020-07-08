@@ -1,72 +1,100 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <HediffDef Name="AddedBodyPartDidgetsBase" Abstract="True">
-    <hediffClass>Hediff_AddedPart</hediffClass>
-    <defaultLabelColor>(64,138,184)</defaultLabelColor>
-    <isBad>false</isBad>
-  </HediffDef>
-  <HediffDef ParentName="AddedBodyPartDidgetsBase">
-    <defName>ProstheticFinger</defName>
-    <label>prosthetic finger</label>
-    <description>A simple prosthetic finger</description>
-    <spawnThingOnRemoved>ProstheticFinger</spawnThingOnRemoved>
-    <addedPartProps>
-      <solid>true</solid>
-      <partEfficiency>1</partEfficiency>
-      <betterThanNatural>false</betterThanNatural>
-    </addedPartProps>
-  </HediffDef>
-  <HediffDef ParentName="AddedBodyPartDidgetsBase">
-    <defName>ProstheticToe</defName>
-    <label>prosthetic toe</label>
-    <description>A simple prosthetic toe</description>
-    <spawnThingOnRemoved>ProstheticToe</spawnThingOnRemoved>
-    <addedPartProps>
-      <solid>true</solid>
-      <partEfficiency>1</partEfficiency>
-      <betterThanNatural>false</betterThanNatural>
-    </addedPartProps>
-  </HediffDef>
-  <HediffDef ParentName="AddedBodyPartDidgetsBase">
-    <defName>BionicFinger</defName>
-    <label>bionic finger</label>
-    <description>A bionic finger</description>
-    <spawnThingOnRemoved>BionicFinger</spawnThingOnRemoved>
-    <addedPartProps>
-      <solid>true</solid>
-      <partEfficiency>1.0</partEfficiency>
-      <betterThanNatural>true</betterThanNatural>
-    </addedPartProps>
-    <stages>
-      <li>
-        <capMods>
-          <li>
-            <capacity>Manipulation</capacity>
-            <offset>0.04</offset>
-          </li>
-        </capMods>
-      </li>
-    </stages>
-  </HediffDef>
-  <HediffDef ParentName="AddedBodyPartDidgetsBase">
-    <defName>BionicToe</defName>
-    <label>bionic toe</label>
-    <description>A bionic toe</description>
-    <spawnThingOnRemoved>BionicToe</spawnThingOnRemoved>
-    <addedPartProps>
-      <solid>true</solid>
-      <partEfficiency>1.0</partEfficiency>
-      <betterThanNatural>true</betterThanNatural>
-    </addedPartProps>
-    <stages>
-      <li>
-        <capMods>
-          <li>
-            <capacity>Moving</capacity>
-            <offset>0.04</offset>
-          </li>
-        </capMods>
-      </li>
-    </stages>
-  </HediffDef>
+
+    <!-- Bases: Prosthetic body part didgets (industrial and spacer tech) -->
+
+    <HediffDef Name="AddedBodyPartDidgetsBase" Abstract="True">
+        <hediffClass>Hediff_AddedPart</hediffClass>
+        <defaultLabelColor>(64,138,184)</defaultLabelColor>
+        <isBad>false</isBad>
+    </HediffDef>
+
+    <!-- Prosthetic finger -->
+
+    <HediffDef ParentName="AddedBodyPartDidgetsBase">
+        <defName>ProstheticFinger</defName>
+        <label>prosthetic finger</label>
+        <description>An installed prosthetic finger.</description>
+        <descriptionHyperlinks>
+            <ThingDef>ProstheticFinger</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>ProstheticFinger</spawnThingOnRemoved>
+        <addedPartProps>
+            <solid>true</solid>
+            <partEfficiency>1</partEfficiency>
+            <betterThanNatural>false</betterThanNatural>
+        </addedPartProps>
+    </HediffDef>
+
+    <!-- Prosthetic toe -->
+
+    <HediffDef ParentName="AddedBodyPartDidgetsBase">
+        <defName>ProstheticToe</defName>
+        <label>prosthetic toe</label>
+        <description>An installed prosthetic toe.</description>
+        <descriptionHyperlinks>
+            <ThingDef>ProstheticToe</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>ProstheticToe</spawnThingOnRemoved>
+        <addedPartProps>
+            <solid>true</solid>
+            <partEfficiency>1</partEfficiency>
+            <betterThanNatural>false</betterThanNatural>
+        </addedPartProps>
+    </HediffDef>
+
+    <!-- Bionic finger -->
+
+    <HediffDef ParentName="AddedBodyPartDidgetsBase">
+        <defName>BionicFinger</defName>
+        <label>bionic finger</label>
+        <description>An installed bionic finger.</description>
+        <descriptionHyperlinks>
+            <ThingDef>BionicFinger</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>BionicFinger</spawnThingOnRemoved>
+        <addedPartProps>
+            <solid>true</solid>
+            <partEfficiency>1.0</partEfficiency>
+            <betterThanNatural>true</betterThanNatural>
+        </addedPartProps>
+        <stages>
+            <li>
+                <capMods>
+                    <li>
+                        <capacity>Manipulation</capacity>
+                        <offset>0.04</offset>
+                    </li>
+                </capMods>
+            </li>
+        </stages>
+    </HediffDef>
+
+    <!-- Bionic toe -->
+
+    <HediffDef ParentName="AddedBodyPartDidgetsBase">
+        <defName>BionicToe</defName>
+        <label>bionic toe</label>
+        <description>An installed bionic toe.</description>
+        <descriptionHyperlinks>
+            <ThingDef>BionicToe</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>BionicToe</spawnThingOnRemoved>
+        <addedPartProps>
+            <solid>true</solid>
+            <partEfficiency>1.0</partEfficiency>
+            <betterThanNatural>true</betterThanNatural>
+        </addedPartProps>
+        <stages>
+            <li>
+                <capMods>
+                    <li>
+                        <capacity>Moving</capacity>
+                        <offset>0.04</offset>
+                    </li>
+                </capMods>
+            </li>
+        </stages>
+    </HediffDef>
+
 </Defs>
