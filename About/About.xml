@@ -9,15 +9,79 @@
     <li>1.1</li>
     <li>1.2</li>
   </supportedVersions>
-  <description>Update of Actual Trashs mod for RimWorld 1.1 https://steamcommunity.com/sharedfiles/filedetails/?id=1507137970
-        Cleaned up the code and made use of the vanilla definitions instead.
-        
-        Support-chat:
-        https://discord.gg/SuhwVpM
-        
-        --- Original Description ---
-        Adds in prosthetic fingers and toes, now for 1.0.
-        Credits to Arkamedes for the preview image.
-        Version- 5
-    </description>
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Actual Trashs mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1507137970
+
+- Cleaned up the code and made use of the vanilla definitions instead.
+- Moved bionic-digits to Fabrication Bench (thanks younyokel)
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/ProstheticDidgets][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
+[b]Ever try to go toe-to-toe with a scyther, only to end up going stub-to-stub?
+Confused on why you have to replace an entire [i]arm[/i] just to solve the problem of a missing thumb?
+Well boy howdy, I have the mod for you![/b]
+
+Prosthetic fingers and toes, the solution to a few missing didgets. Now craftable at your nearest machining bench for only a mere 10 steel and 1 component!
+
+Credits to Arkamedes on the RW Discord for the preview image.
+
+[strike](bionic fingers coming soon™)[/strike]
+
+Non-steam: https://www.dropbox.com/s/y0rdf2o095akdyo/prosthetic%20didgets%20updated.zip?dl=0
+B18 Version: https://steamcommunity.com/sharedfiles/filedetails/?id=1293881397
+B19 Version: https://www.dropbox.com/s/ts8od675igwzqgd/prosthetic%20didgetsb19.zip?dl=0
+
+[b]Patch Notes[/b]:
+
+[b]Update 0-[/b]
+  -Initial Release
+
+[b]Update 1-[/b]
+  -Fixed a problem where the mod would fart out errors on boot-up. Should not do that anymore.
+
+[b]Update 2-[/b]
+  -Bionic fingers!
+    -[i]-Craftable for only 10 plasteel and 2 components + their prosthetic equivelant.[/i]
+    -[i]-Only 110% efficent, this may be changed later.[/i]
+  -Added colors to the hediffs, very pretty.
+  -Bug-fixing!
+    -[i]-Everything should be properly craftable now.[/i]
+    -[i]-Changed base titles, this *should* mean the mod plays nicer with other mods now. Probably does nothing.[/i]
+
+[b]Update 3-[/b]
+  -Balancing!
+    -[i]-Increased market value of bionic prosthetics.[/i]
+    -[i]-Bionic fingers now have an efficiency of 100%, but give +0.4 manipulation. This means that a full hand should give about +20% manipulation.[/i]
+    -[i]-Bionic toes now have an efficiency of 100%, but give +0.4 movement speed. This means that a full foot should give about +20% movement speed.[/i]
+  -Misc Updates
+    -[i]-About file now displays version number.
+
+[b]Update 4-[/b]
+    -[i]-Updated to B19![/i]
+
+[b]Update 5-[/b]
+    -[i]-Finally updated to 1.0.[/i]
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+

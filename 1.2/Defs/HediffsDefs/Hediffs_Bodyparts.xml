@@ -6,6 +6,36 @@
     <defaultLabelColor>(64,138,184)</defaultLabelColor>
     <isBad>false</isBad>
   </HediffDef>
+  <!-- Simple finger -->
+  <HediffDef ParentName="AddedBodyPartDidgetsBase">
+    <defName>SimpleFinger</defName>
+    <label>simple finger</label>
+    <description>An installed simple finger.</description>
+    <descriptionHyperlinks>
+      <ThingDef>SimpleFinger</ThingDef>
+    </descriptionHyperlinks>
+    <spawnThingOnRemoved>SimpleFinger</spawnThingOnRemoved>
+    <addedPartProps>
+      <solid>true</solid>
+      <partEfficiency>0.75</partEfficiency>
+      <betterThanNatural>false</betterThanNatural>
+    </addedPartProps>
+  </HediffDef>
+  <!-- Prosthetic toe -->
+  <HediffDef ParentName="AddedBodyPartDidgetsBase">
+    <defName>SimpleToe</defName>
+    <label>simple toe</label>
+    <description>An installed simple toe.</description>
+    <descriptionHyperlinks>
+      <ThingDef>SimpleToe</ThingDef>
+    </descriptionHyperlinks>
+    <spawnThingOnRemoved>SimpleToe</spawnThingOnRemoved>
+    <addedPartProps>
+      <solid>true</solid>
+      <partEfficiency>0.75</partEfficiency>
+      <betterThanNatural>false</betterThanNatural>
+    </addedPartProps>
+  </HediffDef>
   <!-- Prosthetic finger -->
   <HediffDef ParentName="AddedBodyPartDidgetsBase">
     <defName>ProstheticFinger</defName>
@@ -47,7 +77,7 @@
     <spawnThingOnRemoved>BionicFinger</spawnThingOnRemoved>
     <addedPartProps>
       <solid>true</solid>
-      <partEfficiency>1.0</partEfficiency>
+      <partEfficiency>1.25</partEfficiency>
       <betterThanNatural>true</betterThanNatural>
     </addedPartProps>
     <stages>
@@ -72,7 +102,7 @@
     <spawnThingOnRemoved>BionicToe</spawnThingOnRemoved>
     <addedPartProps>
       <solid>true</solid>
-      <partEfficiency>1.0</partEfficiency>
+      <partEfficiency>1.25</partEfficiency>
       <betterThanNatural>true</betterThanNatural>
     </addedPartProps>
     <stages>

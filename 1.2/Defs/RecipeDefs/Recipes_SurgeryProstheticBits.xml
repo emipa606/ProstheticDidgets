@@ -1,18 +1,91 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <!-- The surgery recipes to install parts in a pawn -->
-  <RecipeDef Abstract="True" Name="SurgeryFlesh">
-    <effectWorking>Surgery</effectWorking>
-    <soundWorking>Recipe_Surgery</soundWorking>
-    <workSpeedStat>MedicalOperationSpeed</workSpeedStat>
-    <workSkill>Medicine</workSkill>
-    <workSkillLearnFactor>16</workSkillLearnFactor>
-    <recipeUsers>
-      <li>Human</li>
-    </recipeUsers>
+  <!-- Prosthetic finger -->
+  <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
+    <defName>InstallSimpleFinger</defName>
+    <label>install simple finger</label>
+    <description>Install a simple finger.</description>
+    <descriptionHyperlinks>
+      <ThingDef>SimpleFinger</ThingDef>
+    </descriptionHyperlinks>
+    <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+    <jobString>Installing simple finger.</jobString>
+    <workAmount>250</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Medicine</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SimpleFinger</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Medicine</li>
+      </categories>
+      <thingDefs>
+        <li>SimpleFinger</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>Finger</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>SimpleFinger</addsHediff>
+  </RecipeDef>
+  <!-- Simple toe -->
+  <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
+    <defName>InstallSimpleToe</defName>
+    <label>install simple toe</label>
+    <description>Install a simple toe.</description>
+    <descriptionHyperlinks>
+      <ThingDef>SimpleToe</ThingDef>
+    </descriptionHyperlinks>
+    <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+    <jobString>Installing simple toe.</jobString>
+    <workAmount>250</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Medicine</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>SimpleToe</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Medicine</li>
+      </categories>
+      <thingDefs>
+        <li>SimpleToe</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>Toe</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>SimpleToe</addsHediff>
   </RecipeDef>
   <!-- Prosthetic finger -->
-  <RecipeDef ParentName="SurgeryFlesh">
+  <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
     <defName>InstallProstheticFinger</defName>
     <label>install prosthetic finger</label>
     <description>Install a prosthetic finger.</description>
@@ -54,7 +127,7 @@
     <addsHediff>ProstheticFinger</addsHediff>
   </RecipeDef>
   <!-- Prosthetic toe -->
-  <RecipeDef ParentName="SurgeryFlesh">
+  <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
     <defName>InstallProstheticToe</defName>
     <label>install prosthetic toe</label>
     <description>Install a prosthetic toe.</description>
@@ -96,7 +169,7 @@
     <addsHediff>ProstheticToe</addsHediff>
   </RecipeDef>
   <!-- Bionic finger -->
-  <RecipeDef ParentName="SurgeryFlesh">
+  <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
     <defName>InstallBionicFinger</defName>
     <label>install bionic finger</label>
     <description>Install a bionic finger.</description>
@@ -138,7 +211,7 @@
     <addsHediff>BionicFinger</addsHediff>
   </RecipeDef>
   <!-- Bionic toe -->
-  <RecipeDef ParentName="SurgeryFlesh">
+  <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
     <defName>InstallBionicToe</defName>
     <label>install bionic toe</label>
     <description>Install a bionic toe.</description>

@@ -1,5 +1,75 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
+  <!-- Simple finger -->
+  <ThingDef ParentName="BodyPartProstheticBase">
+    <defName>SimpleFinger</defName>
+    <label>simple finger replacement</label>
+    <description>A simple solid finger-like rod, makes gripping slightly easier.</description>
+    <techLevel>Medieval</techLevel>
+    <descriptionHyperlinks>
+      <RecipeDef>InstallSimpleFinger</RecipeDef>
+    </descriptionHyperlinks>
+    <statBases>
+      <MarketValue>10</MarketValue>
+      <Mass>1</Mass>
+    </statBases>
+    <techHediffsTags>
+      <li>Simple</li>
+    </techHediffsTags>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>1</costStuffCount>
+    <recipeMaker>
+      <workAmount>75</workAmount>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Smith</soundWorking>
+      <recipeUsers>
+        <li>FueledSmithy</li>
+        <li>ElectricSmithy</li>
+      </recipeUsers>
+      <researchPrerequisite>Smithing</researchPrerequisite>
+    </recipeMaker>
+  </ThingDef>
+  <!-- Simple toe -->
+  <ThingDef ParentName="BodyPartProstheticBase">
+    <defName>SimpleToe</defName>
+    <label>simple toe replacement</label>
+    <description>A simple solid toe-like rod, makes walking slightly easier.</description>
+    <techLevel>Medieval</techLevel>
+    <descriptionHyperlinks>
+      <RecipeDef>InstallSimpleToe</RecipeDef>
+    </descriptionHyperlinks>
+    <statBases>
+      <MarketValue>10</MarketValue>
+      <Mass>1</Mass>
+    </statBases>
+    <techHediffsTags>
+      <li>Simple</li>
+    </techHediffsTags>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>1</costStuffCount>
+    <recipeMaker>
+      <workAmount>75</workAmount>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Smith</soundWorking>
+      <recipeUsers>
+        <li>FueledSmithy</li>
+        <li>ElectricSmithy</li>
+      </recipeUsers>
+      <researchPrerequisite>Smithing</researchPrerequisite>
+    </recipeMaker>
+  </ThingDef>
   <!-- Prosthetic finger -->
   <ThingDef ParentName="BodyPartProstheticBase">
     <defName>ProstheticFinger</defName>
