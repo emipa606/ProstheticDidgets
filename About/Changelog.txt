@@ -1,5 +1,8 @@
 # Changelog for ProstheticDidgets
 
+1.0.8.0 - Added Brazilian Portuguese translation, thanks Nem te conto
+
+
 1.0.7.0 - Mod updated for 1.3 and passed autotests
 
 

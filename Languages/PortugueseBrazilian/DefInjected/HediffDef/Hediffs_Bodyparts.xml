@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Simple finger -->
+  <SimpleFinger.label>dedo simples</SimpleFinger.label>
+  <SimpleFinger.description>Um dedo simples instalado.</SimpleFinger.description>
+  <!-- Prosthetic toe -->
+  <SimpleToe.label>dedo do pé simples</SimpleToe.label>
+  <SimpleToe.description>Um dedo do pé simples instalado.</SimpleToe.description>
+  <!-- Prosthetic finger -->
+  <ProstheticFinger.label>dedo protético</ProstheticFinger.label>
+  <ProstheticFinger.description>Um dedo protético instalado.</ProstheticFinger.description>
+  <!-- Prosthetic toe -->
+  <ProstheticToe.label>dedo protético</ProstheticToe.label>
+  <ProstheticToe.description>Um dedo do pé protético instalado.</ProstheticToe.description>
+  <!-- Bionic finger -->
+  <BionicFinger.label>dedo biônico</BionicFinger.label>
+  <BionicFinger.description>Um dedo biônico instalado.</BionicFinger.description>
+  <!-- Bionic toe -->
+  <BionicToe.label>dedo biônico</BionicToe.label>
+  <BionicToe.description>Um dedo biônico instalado.</BionicToe.description>
+</LanguageData>

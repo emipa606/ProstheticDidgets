@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Simple finger -->
+  <SimpleFinger.label>substituição simples do dedo</SimpleFinger.label>
+  <SimpleFinger.description>Uma haste simples e sólida em forma de dedo torna a preensão um pouco mais fácil.</SimpleFinger.description>
+  <!-- Simple toe -->
+  <SimpleToe.label>substituição simples do dedo do pé</SimpleToe.label>
+  <SimpleToe.description>Uma haste simples e sólida, semelhante a um dedo do pé, torna o andar um pouco mais fácil.</SimpleToe.description>
+  <!-- Prosthetic finger -->
+  <ProstheticFinger.label>dedo protético</ProstheticFinger.label>
+  <ProstheticFinger.description>Uma simples prótese de dedo em caso de perda de uma delas. Ligeiramente distinguível do real.</ProstheticFinger.description>
+  <!-- Prosthetic toe -->
+  <ProstheticToe.label>dedo do pé protético</ProstheticToe.label>
+  <ProstheticToe.description>A prótese mais simples para um dedo do pé humano. Às vezes parece inconveniente.</ProstheticToe.description>
+  <!-- Bionic finger -->
+  <BionicFinger.label>dedo biônico</BionicFinger.label>
+  <BionicFinger.description>Uma substituição sutil para um dedo humano. Esses são melhores do que os biológicos em quase todos os sentidos.</BionicFinger.description>
+  <!-- Bionic toe -->
+  <BionicToe.label>dedo do pé biônico</BionicToe.label>
+  <BionicToe.description>Uma boa substituição biônica do dedo do pé. Ele transmite impulsos elétricos para uma interface neural de biogel que se comunica diretamente com o sistema nervoso do usuário.</BionicToe.description>
+</LanguageData>

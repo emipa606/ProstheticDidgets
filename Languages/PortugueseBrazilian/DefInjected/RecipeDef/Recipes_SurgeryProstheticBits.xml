@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Prosthetic finger -->
+  <InstallSimpleFinger.label>instale o dedo simples</InstallSimpleFinger.label>
+  <InstallSimpleFinger.description>Instale um dedo simples.</InstallSimpleFinger.description>
+  <InstallSimpleFinger.jobString>Instalando o dedo simples.</InstallSimpleFinger.jobString>
+  <!-- Simple toe -->
+  <InstallSimpleToe.label>instale o dedo do pé simples</InstallSimpleToe.label>
+  <InstallSimpleToe.description>Instale um dedo do pé simples.</InstallSimpleToe.description>
+  <InstallSimpleToe.jobString>Instalando o dedo do pé simples.</InstallSimpleToe.jobString>
+  <!-- Prosthetic finger -->
+  <InstallProstheticFinger.label>instalar dedo protético</InstallProstheticFinger.label>
+  <InstallProstheticFinger.description>Instale uma prótese de dedo.</InstallProstheticFinger.description>
+  <InstallProstheticFinger.jobString>Instalando a prótese de dedo.</InstallProstheticFinger.jobString>
+  <!-- Prosthetic toe -->
+  <InstallProstheticToe.label>instalar prótese de dedo do pé</InstallProstheticToe.label>
+  <InstallProstheticToe.description>Instale uma prótese de dedo do pé.</InstallProstheticToe.description>
+  <InstallProstheticToe.jobString>Instalando a prótese do dedo do pé.</InstallProstheticToe.jobString>
+  <!-- Bionic finger -->
+  <InstallBionicFinger.label>instalar dedo biônico</InstallBionicFinger.label>
+  <InstallBionicFinger.description>Instale um dedo biônico.</InstallBionicFinger.description>
+  <InstallBionicFinger.jobString>Instalando o dedo biônico.</InstallBionicFinger.jobString>
+  <!-- Bionic toe -->
+  <InstallBionicToe.label>instale o dedo do pé biônico</InstallBionicToe.label>
+  <InstallBionicToe.description>Instale um dedo do pé biônico.</InstallBionicToe.description>
+  <InstallBionicToe.jobString>Instalando o dedo do pé biônico.</InstallBionicToe.jobString>
+</LanguageData>
