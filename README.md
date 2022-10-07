@@ -1,6 +1,6 @@
 # ProstheticDidgets
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Actual Trashs mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1507137970
@@ -8,20 +8,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1507137970
 - Cleaned up the code and made use of the vanilla definitions instead.
 - Moved bionic-digits to Fabrication Bench (thanks younyokel)
 - Added a medival tier with lower efficency
+- Added Brazilian Portuguese translation, thanks Nem te conto!
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/ProstheticDidgets]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 **Ever try to go toe-to-toe with a scyther, only to end up going stub-to-stub?
@@ -61,7 +53,7 @@ B19 Version: https://www.dropbox.com/s/ts8od675igwzqgd/prosthetic%20didgetsb19.z
     -*-Bionic fingers now have an efficiency of 100%, but give +0.4 manipulation. This means that a full hand should give about +20% manipulation.*
     -*-Bionic toes now have an efficiency of 100%, but give +0.4 movement speed. This means that a full foot should give about +20% movement speed.*
   -Misc Updates
-    -*-About file now displays version number.
+    -*-About file now displays version number.*
 
 **Update 4-**
     -*-Updated to B19!*
@@ -70,7 +62,7 @@ B19 Version: https://www.dropbox.com/s/ts8od675igwzqgd/prosthetic%20didgetsb19.z
     -*-Finally updated to 1.0.*
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
