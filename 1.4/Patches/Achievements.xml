@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/MainButtonDef[defName="Achievements"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs</xpath>
+          <value>
+            <AchievementsExpanded.AchievementTabDef>
+              <defName>Mlie_Originals</defName>
+              <label>Mlies Mods</label>
+            </AchievementsExpanded.AchievementTabDef>
+          </value>
+        </li>
+        <li Class="PatchOperationConditional">
+          <success>Always</success>
+          <xpath>/Defs/AchievementsExpanded.AchievementDef[@Name="Mlie_OriginalAchievementParent"]</xpath>
+          <nomatch Class="PatchOperationAdd">
+            <xpath>Defs</xpath>
+            <value>
+              <AchievementsExpanded.AchievementDef Name="Mlie_OriginalAchievementParent" Abstract="true">
+                <bgtexPath>Achievements/OriginalAchievmentsBG</bgtexPath>
+                <tab>Mlie_Originals</tab>
+              </AchievementsExpanded.AchievementDef>
+            </value>
+          </nomatch>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs</xpath>
+          <value>
+            <AchievementsExpanded.AchievementDef ParentName="Mlie_OriginalAchievementParent">
+              <defName>PRD_AtLeastItsMyHands</defName>
+              <label>At least its my hands</label>
+              <description>Install 10 simple fingers on one pawn</description>
+              <tracker Class="AchievementsExpanded.MultiHediffTracker">
+                <defs>
+                  <li>
+                    <key>SimpleFinger</key>
+                    <value>10</value>
+                  </li>
+                </defs>
+              </tracker>
+              <texPath>Achievements/PRD_AtLeastItsMyHands</texPath>
+              <points>25</points>
+            </AchievementsExpanded.AchievementDef>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs</xpath>
+          <value>
+            <AchievementsExpanded.AchievementDef ParentName="Mlie_OriginalAchievementParent">
+              <defName>PRD_SimilarToMyOldFingers</defName>
+              <label>Similar to my old fingers</label>
+              <description>Install 10 prosthetic fingers on one pawn</description>
+              <tracker Class="AchievementsExpanded.MultiHediffTracker">
+                <defs>
+                  <li>
+                    <key>ProstheticFinger</key>
+                    <value>10</value>
+                  </li>
+                </defs>
+              </tracker>
+              <texPath>Achievements/PRD_SimilarToMyOldFingers</texPath>
+              <points>50</points>
+            </AchievementsExpanded.AchievementDef>
+          </value>
+        </li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs</xpath>
+          <value>
+            <AchievementsExpanded.AchievementDef ParentName="Mlie_OriginalAchievementParent">
+              <defName>PRD_Didgetliazton</defName>
+              <label>Didgetliazton!</label>
+              <description>Install 10 bionic fingers on one pawn</description>
+              <tracker Class="AchievementsExpanded.MultiHediffTracker">
+                <defs>
+                  <li>
+                    <key>BionicFinger</key>
+                    <value>10</value>
+                  </li>
+                </defs>
+              </tracker>
+              <texPath>Achievements/PRD_Didgetliazton</texPath>
+              <points>100</points>
+            </AchievementsExpanded.AchievementDef>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>
