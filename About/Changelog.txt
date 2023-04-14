@@ -1,5 +1,8 @@
 # Changelog for ProstheticDidgets
 
+1.4.3 - Wrong achievement-tab
+
+
 1.4.2 - Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2288125657]Vanilla Achievements Expanded[/url]
 
 
