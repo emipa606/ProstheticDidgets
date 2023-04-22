@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- Simple finger -->
-    <SimpleFinger.label>обычный палец руки</SimpleFinger.label>
+    <SimpleFinger.label>простой палец руки</SimpleFinger.label>
     <SimpleFinger.description>Установленный простой палец руки.</SimpleFinger.description>
   <!-- Prosthetic toe -->
     <SimpleToe.label>простой палец ноги</SimpleToe.label>
