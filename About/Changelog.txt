@@ -1,5 +1,8 @@
 # Changelog for ProstheticDidgets
 
+1.4.4 - Updated russian translation by younyokel
+
+
 1.4.3 - Wrong achievement-tab
 
 
