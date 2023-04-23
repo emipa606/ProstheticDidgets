@@ -1,19 +1,21 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: prosthetic finger -->
-  <ProstheticFinger.label>простой протез пальца руки</ProstheticFinger.label>
-  <!-- EN: A simple prosthetic finger in case of losing one of them. Slightly distinguishable from the real one. -->
-  <ProstheticFinger.description>Простой протез пальца на случай потери одного из них. Совсем немного, но отличается от настоящего.</ProstheticFinger.description>
-  <!-- EN: prosthetic toe -->
-  <ProstheticToe.label>простой протез пальца ноги</ProstheticToe.label>
-  <!-- EN: The simplest prosthetic for a human toe. It feels occasionally inconvenient. -->
-  <ProstheticToe.description>Простейщий протез для человеческого пальца ноги. Порой кажется неудобным.</ProstheticToe.description>
-  <!-- EN: bionic finger -->
+  <!-- Simple finger -->
+  <SimpleFinger.label>простая замена пальца руки</SimpleFinger.label>
+  <SimpleFinger.description>Простой твердый пальцеобразный стержень, облегчающий захват.</SimpleFinger.description>
+  <!-- Simple toe -->
+  <SimpleToe.label>простая замена пальца ноги</SimpleToe.label>
+  <SimpleToe.description>Простой прочный стержень, похожий на палец, облегчает ходьбу.</SimpleToe.description>
+  <!-- Prosthetic finger -->
+  <ProstheticFinger.label>протез пальца руки</ProstheticFinger.label>
+  <ProstheticFinger.description>Простой протез пальца на случай потери одного из них. Несколько отличим от настоящего.</ProstheticFinger.description>
+  <!-- Prosthetic toe -->
+  <ProstheticToe.label>протез пальца ноги</ProstheticToe.label>
+  <ProstheticToe.description>Простейший протез пальца ноги человека. Временами он доставляет неудобства.</ProstheticToe.description>
+  <!-- Bionic finger -->
   <BionicFinger.label>бионический палец руки</BionicFinger.label>
-  <!-- EN: A subtle replacement for a human finger. Those are better than biological ones in almost every way. -->
-  <BionicFinger.description>Утонченная замена человеческому пальцу руки. Они лучше биологических почти во всех отношениях.</BionicFinger.description>
-  <!-- EN: bionic toe -->
+  <BionicFinger.description>Тонкая замена человеческому пальцу. Они лучше биологических практически во всех отношениях.</BionicFinger.description>
+  <!-- Bionic toe -->
   <BionicToe.label>бионический палец ноги</BionicToe.label>
-  <!-- EN: A rather good bionic toe replacement. It transmits electrical impulses to a biogel neural interface that communicates directly with the user's nervous system. -->
-  <BionicToe.description>Неплохая бионическая замена пальца ноги. Она передает электрические импульсы на биогелевый нейронный интерфейс, который непосредственно взаимодействует с нервной системой пользователя.</BionicToe.description>
+  <BionicToe.description>Неплохая бионическая замена пальца ноги. Передает электрические импульсы на биогелевый нейроинтерфейс, который напрямую взаимодействует с нервной системой пользователя.</BionicToe.description>
 </LanguageData>

@@ -1,19 +1,21 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- EN: prosthetic finger -->
-  <ProstheticFinger.label>простой протез пальца руки</ProstheticFinger.label>
-  <!-- EN: An installed prosthetic finger. -->
-  <ProstheticFinger.description>Установленный простой протез пальца руки.</ProstheticFinger.description>
-  <!-- EN: prosthetic finger -->
-  <ProstheticToe.label>простой протез пальца ноги</ProstheticToe.label>
-  <!-- EN: An installed prosthetic toe. -->
-  <ProstheticToe.description>Установленный простой протез пальца руки.</ProstheticToe.description>
-  <!-- EN: bionic finger -->
-  <BionicFinger.label>бионический палец руки</BionicFinger.label>
-  <!-- EN: An installed bionic finger. -->
-  <BionicFinger.description>Вживлённый бионический палец руки.</BionicFinger.description>
-  <!-- EN: bionic toe -->
-  <BionicToe.label>бионический палец ноги</BionicToe.label>
-  <!-- EN: An installed bionic toe. -->
-  <BionicToe.description>Вживлённый бионический палец ноги.</BionicToe.description>
+  <!-- Simple finger -->
+    <SimpleFinger.label>простой палец руки</SimpleFinger.label>
+    <SimpleFinger.description>Установленный простой палец руки.</SimpleFinger.description>
+  <!-- Prosthetic toe -->
+    <SimpleToe.label>простой палец ноги</SimpleToe.label>
+    <SimpleToe.description>Установленный простой палец ноги.</SimpleToe.description>
+  <!-- Prosthetic finger -->
+    <ProstheticFinger.label>протез пальца руки</ProstheticFinger.label>
+    <ProstheticFinger.description>Установленный протез пальца руки.</ProstheticFinger.description>
+  <!-- Prosthetic toe -->
+    <ProstheticToe.label>протез пальца ноги</ProstheticToe.label>
+    <ProstheticToe.description>Установленный протез пальца ноги.</ProstheticToe.description>
+  <!-- Bionic finger -->
+    <BionicFinger.label>бионический палец руки</BionicFinger.label>
+    <BionicFinger.description>Установленный бионический палец руки.</BionicFinger.description>
+  <!-- Bionic toe -->
+    <BionicToe.label>бионический палец ноги</BionicToe.label>
+    <BionicToe.description>Установленный бионический палец ноги.</BionicToe.description>
 </LanguageData>
