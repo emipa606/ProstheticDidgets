@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- Bases: Prosthetic body part didgets (industrial and spacer tech) -->
-  <HediffDef Name="AddedBodyPartDidgetsBase" Abstract="True">
+  <HediffDef Name="AddedBodyPartDidgetsBase" ParentName="AddedBodyPartBase" Abstract="True">
     <hediffClass>Hediff_AddedPart</hediffClass>
     <defaultLabelColor>(64,138,184)</defaultLabelColor>
     <isBad>false</isBad>
