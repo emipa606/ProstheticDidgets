@@ -2,11 +2,12 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "PreviewVersion": "1.5",
+  "PreviewVersion": "1.6",
   "SocialImageSet": true,
   "SearchTags": [
     "digits",
     "fingers",
     "toes"
-  ]
+  ],
+  "LastXmlCleaning": "2025-06-12T11:04:58.5983478+02:00"
 }

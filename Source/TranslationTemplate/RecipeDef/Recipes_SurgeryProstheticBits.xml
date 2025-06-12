@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: install bionic finger -->
+  <InstallBionicFinger.label>install bionic finger</InstallBionicFinger.label>
+  <!-- EN: Install a bionic finger. -->
+  <InstallBionicFinger.description>Install a bionic finger.</InstallBionicFinger.description>
+  <!-- EN: Installing bionic finger. -->
+  <InstallBionicFinger.jobString>Installing bionic finger.</InstallBionicFinger.jobString>
+  <!-- EN: install bionic toe -->
+  <InstallBionicToe.label>install bionic toe</InstallBionicToe.label>
+  <!-- EN: Install a bionic toe. -->
+  <InstallBionicToe.description>Install a bionic toe.</InstallBionicToe.description>
+  <!-- EN: Installing bionic toe. -->
+  <InstallBionicToe.jobString>Installing bionic toe.</InstallBionicToe.jobString>
+  <!-- EN: install prosthetic finger -->
+  <InstallProstheticFinger.label>install prosthetic finger</InstallProstheticFinger.label>
+  <!-- EN: Install a prosthetic finger. -->
+  <InstallProstheticFinger.description>Install a prosthetic finger.</InstallProstheticFinger.description>
+  <!-- EN: Installing prosthetic finger. -->
+  <InstallProstheticFinger.jobString>Installing prosthetic finger.</InstallProstheticFinger.jobString>
+  <!-- EN: install prosthetic toe -->
+  <InstallProstheticToe.label>install prosthetic toe</InstallProstheticToe.label>
+  <!-- EN: Install a prosthetic toe. -->
+  <InstallProstheticToe.description>Install a prosthetic toe.</InstallProstheticToe.description>
+  <!-- EN: Installing prosthetic toe. -->
+  <InstallProstheticToe.jobString>Installing prosthetic toe.</InstallProstheticToe.jobString>
+  <!-- EN: install simple finger -->
+  <InstallSimpleFinger.label>install simple finger</InstallSimpleFinger.label>
+  <!-- EN: Install a simple finger. -->
+  <InstallSimpleFinger.description>Install a simple finger.</InstallSimpleFinger.description>
+  <!-- EN: Installing simple finger. -->
+  <InstallSimpleFinger.jobString>Installing simple finger.</InstallSimpleFinger.jobString>
+  <!-- EN: install simple toe -->
+  <InstallSimpleToe.label>install simple toe</InstallSimpleToe.label>
+  <!-- EN: Install a simple toe. -->
+  <InstallSimpleToe.description>Install a simple toe.</InstallSimpleToe.description>
+  <!-- EN: Installing simple toe. -->
+  <InstallSimpleToe.jobString>Installing simple toe.</InstallSimpleToe.jobString>
+</LanguageData>

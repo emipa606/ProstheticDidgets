@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bionic finger -->
+  <BionicFinger.label>bionic finger</BionicFinger.label>
+  <!-- EN: A subtle replacement for a human finger. Those are better than biological ones in almost every way. -->
+  <BionicFinger.description>A subtle replacement for a human finger. Those are better than biological ones in almost every way.</BionicFinger.description>
+  <!-- EN: bionic toe -->
+  <BionicToe.label>bionic toe</BionicToe.label>
+  <!-- EN: A rather good bionic toe replacement. It transmits electrical impulses to a biogel neural interface that communicates directly with the user's nervous system. -->
+  <BionicToe.description>A rather good bionic toe replacement. It transmits electrical impulses to a biogel neural interface that communicates directly with the user's nervous system.</BionicToe.description>
+  <!-- EN: prosthetic finger -->
+  <ProstheticFinger.label>prosthetic finger</ProstheticFinger.label>
+  <!-- EN: A simple prosthetic finger in case of losing one of them. Slightly distinguishable from the real one. -->
+  <ProstheticFinger.description>A simple prosthetic finger in case of losing one of them. Slightly distinguishable from the real one.</ProstheticFinger.description>
+  <!-- EN: prosthetic toe -->
+  <ProstheticToe.label>prosthetic toe</ProstheticToe.label>
+  <!-- EN: The simplest prosthetic for a human toe. It feels occasionally inconvenient. -->
+  <ProstheticToe.description>The simplest prosthetic for a human toe. It feels occasionally inconvenient.</ProstheticToe.description>
+  <!-- EN: simple finger replacement -->
+  <SimpleFinger.label>simple finger replacement</SimpleFinger.label>
+  <!-- EN: A simple solid finger-like rod, makes gripping slightly easier. -->
+  <SimpleFinger.description>A simple solid finger-like rod, makes gripping slightly easier.</SimpleFinger.description>
+  <!-- EN: simple toe replacement -->
+  <SimpleToe.label>simple toe replacement</SimpleToe.label>
+  <!-- EN: A simple solid toe-like rod, makes walking slightly easier. -->
+  <SimpleToe.description>A simple solid toe-like rod, makes walking slightly easier.</SimpleToe.description>
+</LanguageData>
